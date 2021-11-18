@@ -1,4 +1,4 @@
-module github.com/flydevs/chat-app-api/common
+module github.com/sora8d/common
 
 go 1.17
 
