@@ -1,4 +1,4 @@
-module github.com/sora8d/common
+module github.com/Sora8d/common
 
 go 1.17
 
